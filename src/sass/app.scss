@@ -1,0 +1,7 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+  background-image: url('../images/senac.png');
+  translate: translateX(100px);
+}
