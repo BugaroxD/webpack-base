@@ -1,0 +1,39 @@
+/*!******************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/sass/app.scss ***!
+  \******************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Raleway&display=swap);
+/*!**********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/sass/app.scss (1) ***!
+  \**********************************************************************************************************************************************************/
+body {
+  font-family: "Raleway", sans-serif;
+  color: violet;
+  font-size: 22px;
+}
+
+.destaque {
+  color: red;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+h4 {
+  font-size: 110%;
+}
+
+.container {
+  width: 500px;
+  border: 5px solid greenyellow;
+  margin-left: auto;
+  margin-right: auto;
+}

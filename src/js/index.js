@@ -1,6 +1,17 @@
 import "../sass/app.scss";
-import lodash from "lodash";
 
+const app = document.getElementById('app');
 
-console.log(lodash.join(['Hello', 'webpack'], ' '));
-console.log('teste')
+const ul = documen.createElement('ul');
+const li = document.creatElement('li');
+
+li.innerHTML = "Menu Inicial"
+
+ul.appendChild(li);
+
+app.appendChild(ul);
+
+// Uma lista para o meni
+// uma div container
+// um h1 de bem vindo
+// uma p de descrição do site
